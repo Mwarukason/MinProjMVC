@@ -1,0 +1,133 @@
+﻿@model MinProjMVC.Models.MessageModel
+@using System.Web.Optimization
+@using MinProjMVC.Models;
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Single Page Application</title>
+    
+    <link type="text/css" rel="stylesheet" href="@Url.Content("~/Content/bootstrap.css")" />
+    <link type="text/css" rel="stylesheet" href="@Url.Content("~/Content/custom.css")" />
+</head>
+<body class="bg-custom">
+    <div class="container">
+        <div class="row padding-20">
+            <div class="col-md-1">
+            </div>
+            <div class="col-md-10">
+                <!-- begining of the form-->
+                @using(Html.BeginForm("Index", "Message", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="padding-10" style="margin-bottom: 20px;">
+                        @Html.ValidationSummary(true, null, new { @class = "text-danger" })
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-2">
+                            @Html.LabelFor(model => model.Message)
+                        </div>
+                        <div class="col-md-10">
+                            @Html.TextAreaFor(model => model.Message, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Message, null, new { @class = "text-danger"})
+                        </div>
+                    </div>
+                    <div class="row" style="margin-top: 20px;">
+                        <div class="col-md-2">
+                            @Html.LabelFor(model => model.SubmittedFile)
+                        </div>
+                        <div class="col-md-10 ">
+                            @Html.TextBoxFor(model => model.SubmittedFile, new { @class = "form-control", type = "file", @readonly = "readonly", maxLength = "100" })
+                            @Html.ValidationMessageFor(model => model.SubmittedFile, null, new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="row" style="margin-top: 20px;">
+                        <div class="col-md-2">
+                        </div>
+                        <div class="col-md-10">
+                            <a href="#" id="submitBtn" class="btn btn-primary" data-toggle="modal" data-target="#confirmModal" style="width:100%;">SUBMIT</a>
+
+                            <div class="modal fade" id="confirmModal" tabindex="-1" role="dialog">
+                                <div class="modal-dialog modal-sm" role="document">
+                                    <div class="modal-content padding-20">
+                                        Are you sure you want to submit this message?
+                                        <a href="#" class="btn btn-default" data-dismiss="modal">No</a>
+                                        <button class="btn btn-primary">Yes</button>
+                                    </div>
+                                </div>
+                            </div><!-- /.modal -->
+
+                        </div>
+                    </div>
+                }
+
+            </div>
+            <div class="col-md-1">
+
+            </div>
+        </div>
+
+
+        <div class="row padding-30" style="margin-bottom: 50px;">
+            <div class="col-md-1">
+
+            </div>
+            <div class="col-md-10 padding-10">
+                <h3 class="text-center">STORED INFORMATION</h3>
+
+                <table class="table table-bordered table-striped" style="width:100%; margin-top: 30px;">
+                    <tr>
+                        <th width="3%">Id</th>
+                        <th width="25%">Date</th>
+                        <th width="50%">Message</th>
+                        <th width="22%">File</th>
+                    </tr>
+                    @{
+                        var messages = ViewBag.Messages as List<MessageListItemModel>;
+                    }
+
+                    @if (messages != null && messages.Count > 0)
+                    {
+                        foreach(var msg in messages)
+                        {
+                            <tr>
+                                <td>@msg.Id</td>
+                                <td>@msg.Date</td>
+                                <td>@msg.Message</td>
+                                <td>
+                                    <a href="@Url.Action("File", "Message", new { id = msg.Id })" download="@msg.FileName" data-toggle="tooltip" title="Download file">@msg.FileName</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="4" class="text-center">No message at the moment</td>
+                        </tr>
+                    }
+
+                </table>
+            </div>
+            <div class="col-md-1">
+            </div>
+        </div>
+    </div>
+    @Scripts.Render("~/Scripts/jquery-1.10.2.min.js")
+    @Scripts.Render("~/Scripts/bootstrap.min.js")
+    @Scripts.Render("~/Scripts/custom.js")
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            Msg.init();
+        });
+    </script>
+</body>
+</html>

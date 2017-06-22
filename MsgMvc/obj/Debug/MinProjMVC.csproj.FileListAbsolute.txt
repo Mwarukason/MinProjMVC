@@ -1,0 +1,114 @@
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\ApplicationInsights.config
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\csc.exe
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\vbc.exe
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\MsgMvc.dll.config
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\MsgMvc.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\MsgMvc.pdb
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Antlr3.Runtime.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\EntityFramework.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.Web.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Newtonsoft.Json.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.Helpers.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.Mvc.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.Optimization.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.Razor.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.WebPages.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\WebGrease.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\EntityFramework.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.Web.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.Helpers.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.Mvc.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.Optimization.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.Razor.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.WebPages.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Antlr3.Runtime.pdb
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\bin\Newtonsoft.Json.xml
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\obj\Debug\MsgMvc.dll
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\obj\Debug\MsgMvc.pdb
+C:\Users\MWARUKASON\Desktop\MVC\MsgMvc\MsgMvc\obj\Debug\MinProjMVC.csprojResolveAssemblyReference.cache
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\ApplicationInsights.config
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\csc.exe
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\vbc.exe
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\MsgMvc.dll.config
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\MsgMvc.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\MsgMvc.pdb
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Antlr3.Runtime.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\EntityFramework.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.Web.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Newtonsoft.Json.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.Helpers.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.Mvc.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.Optimization.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.Razor.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.WebPages.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\WebGrease.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\EntityFramework.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.Web.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.Helpers.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.Mvc.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.Optimization.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.Razor.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.WebPages.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Antlr3.Runtime.pdb
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\bin\Newtonsoft.Json.xml
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\obj\Debug\MinProjMVC.csprojResolveAssemblyReference.cache
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\obj\Debug\MsgMvc.dll
+C:\Users\MWARUKASON\Desktop\MVC\MVC Project\MsgMvc\obj\Debug\MsgMvc.pdb
